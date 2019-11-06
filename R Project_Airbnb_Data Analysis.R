@@ -40,9 +40,7 @@ require(dplyr)
 library(dplyr)
 devtools::install_github("dkahle/ggmap")     # -- Installed from link -:https://github.com/dkahle/ggmap
 
-# This is my google API key, if it is is not working then you will have to generate an API key in Google
-register_google(key = "AIzaSyCVr1USPPF3NBpr0GJyKYTe6I0sipl5m7I")
-
+# you will have to generate an API key in Google (generate an API key. Didn't post our API as the API was public)
 
 ##Reading data from csv
 
